@@ -1,4 +1,4 @@
-__author__ = 'DarraghD'
+# ZeroMQ demo server
 
 import time
 import zmq
